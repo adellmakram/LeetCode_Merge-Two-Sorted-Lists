@@ -5,7 +5,7 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 Return the head of the merged linked list.
 
 
- // Definition for singly-linked list.
+// Definition for singly-linked list.
   public class ListNode {
       public int val;
       public ListNode next;
